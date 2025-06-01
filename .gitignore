@@ -400,3 +400,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /Section3/EntityFrameworkCore.Console/FootballLeague.db
+/Section4/EntityFrameworkCore.Console/FootballLeague.db
